@@ -1,5 +1,5 @@
 # Overview
-This project is a book recommender system that helps users find book suggestions based on their input. It utilizes LangChain, Wikipedia API, and OpenAI API to generate relevant book recommendations along with Wikipedia summaries.This was developed to recommend any textbook of interest to its user
+This project is a book recommender system that helps users find book suggestions based on their input. It utilizes LangChain, Wikipedia API, and OpenAI API to generate relevant book recommendations along with Wikipedia summaries.
 # Features
 * User inputs a book title
 * Retrieves related book suggestions from Wikipedia and generate a clickable link
