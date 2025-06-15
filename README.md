@@ -21,7 +21,11 @@ Run the Streamlit app:
 streamlit run app.py
 # Tech Stack
 Python
+
 Streamlit (for the web interface)
+
 LangChain (for efficient query processing)
+
 Wikipedia API (to fetch book information)
+
 OpenAI API (for generating summaries)
