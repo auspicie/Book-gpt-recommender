@@ -8,6 +8,7 @@ This project is a book recommender system that helps users find book suggestions
 * Quick and easy deployment
 # Installation
 Clone the repository:
+
 '''bash
 git clone https://github.com/auspicie/Book-gpt-recomamender.git
 cd book-recommender
@@ -16,6 +17,7 @@ pip install -r requirements.txt
 Set up your OpenAI API key (Create a .env file or set it as an environment variable):
 OPENAI_API_KEY="your_api_key_here"
 '''bash
+
 # Usage
 Run the Streamlit app:
 streamlit run app.py
